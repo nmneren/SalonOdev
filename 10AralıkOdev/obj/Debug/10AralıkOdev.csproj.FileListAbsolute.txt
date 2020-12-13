@@ -1,0 +1,10 @@
+C:\Users\by_nu\source\repos\10AralıkOdev\10AralıkOdev\bin\Debug\10AralıkOdev.exe.config
+C:\Users\by_nu\source\repos\10AralıkOdev\10AralıkOdev\bin\Debug\10AralıkOdev.exe
+C:\Users\by_nu\source\repos\10AralıkOdev\10AralıkOdev\bin\Debug\10AralıkOdev.pdb
+C:\Users\by_nu\source\repos\10AralıkOdev\10AralıkOdev\obj\Debug\10AralıkOdev.csprojAssemblyReference.cache
+C:\Users\by_nu\source\repos\10AralıkOdev\10AralıkOdev\obj\Debug\_10AralıkOdev.Form1.resources
+C:\Users\by_nu\source\repos\10AralıkOdev\10AralıkOdev\obj\Debug\_10AralıkOdev.Properties.Resources.resources
+C:\Users\by_nu\source\repos\10AralıkOdev\10AralıkOdev\obj\Debug\10AralıkOdev.csproj.GenerateResource.cache
+C:\Users\by_nu\source\repos\10AralıkOdev\10AralıkOdev\obj\Debug\10AralıkOdev.csproj.CoreCompileInputs.cache
+C:\Users\by_nu\source\repos\10AralıkOdev\10AralıkOdev\obj\Debug\10AralıkOdev.exe
+C:\Users\by_nu\source\repos\10AralıkOdev\10AralıkOdev\obj\Debug\10AralıkOdev.pdb
